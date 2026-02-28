@@ -1,4 +1,4 @@
-# Inżynieria big data
+# Wprowadzenie do big data
 
 ## Lab 2: Wprowadzenie do biblioteki Dask.
 

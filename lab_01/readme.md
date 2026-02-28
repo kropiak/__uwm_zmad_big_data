@@ -1,4 +1,4 @@
-# Inżynieria big data
+# Wprowadzenie do big data
 
 ## Lab 1: Pandas - optymalizacja.
 

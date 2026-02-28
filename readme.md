@@ -1,4 +1,4 @@
-# Inżynieria big data, semestr 2025/2026
+# Wprowadzenie do big data, semestr 2025/2026
 
 ## 0. Wstęp i wymagania techniczne.
 
